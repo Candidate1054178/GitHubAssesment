@@ -1,0 +1,5 @@
+This repository contains 4 files
+Start by opening the R scripts file, and run the first script, making sure to first set working directory to /question 3 repository 
+Once script 1 has been run, open and run script 2 
+Information on where the data was sourced can be found in the 'data sources' file 
+The output of script 2 is a plot, which is printed to 'output'
